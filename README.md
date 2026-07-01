@@ -4,7 +4,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-CLIP-orange)](https://huggingface.co/openai/clip-vit-base-patch32)
 [![PEFT](https://img.shields.io/badge/PEFT-LoRA-green)](https://github.com/huggingface/peft)
 
-将 YOLO/目标检测格式的 SeaShips 数据集改造为 CLIP 图文对比学习任务，配合 LoRA 轻量微调，实现 6 类船舶细粒度识别。验证集 Top-1 准确率 **92.72%**，仅训练 0.65% 的模型参数。全程独立完成，无导师指导。
+将 YOLO/目标检测格式的 SeaShips 数据集改造为 CLIP 图文对比学习任务，配合 LoRA 轻量微调，实现 6 类船舶细粒度识别。验证集 Top-1 准确率 **92.72%**，仅训练 0.65% 的模型参数。全程独立完成。
 
 ---
 
