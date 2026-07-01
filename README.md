@@ -18,7 +18,7 @@
 
 ## 数据
 
-**[SeaShips(7000)](https://www.kaggle.com/datasets/dongly/shipdataset)** — 一个为目标检测任务设计的 VOC 格式数据集，共 7000 张海事监控图像，6 个类别：
+**[SeaShips(7000))** — 一个为目标检测任务设计的 VOC 格式数据集，共 7000 张海事监控图像，6 个类别：
 
 ```
 数据集目录结构：
